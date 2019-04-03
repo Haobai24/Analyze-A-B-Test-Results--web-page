@@ -8,4 +8,4 @@ The Dataset contain information on each user id and, duration, landing page(old 
 State the null and alternative hypothesis, create sampling distribution for the difference of people converted on the new page and old page, then perform hypothesis tests to analyze the relationshipe between its p-value and alpha to make decisions.
 ### Logistic Regression model:
 Create dummies variables treatment and control columns(catogory variables) and Y-intercept, then create logistic regression model and summarize the resutls.
- 
+  
