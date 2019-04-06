@@ -9,3 +9,4 @@ State the null and alternative hypothesis, create sampling distribution for the 
 ### Logistic Regression model:
 Create dummies variables treatment and control columns(catogory variables) and Y-intercept, then create logistic regression model and summarize the resutls.
   
+ 
